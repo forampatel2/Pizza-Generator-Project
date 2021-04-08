@@ -1,0 +1,48 @@
+body {
+    background-image: url(images/background-img.jpeg);
+    background-repeat: no-repeat;
+    background-position:center;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    background-size: cover; 
+}
+
+#pizza-container img {
+    position: absolute; 
+    margin: auto; 
+    left: 32%;
+    top: 33.5%;  
+}
+
+#pizza-container {
+    width: 800px;
+    height: 800px;
+    margin: auto;
+    text-align: left;
+}
+
+button {
+    font-family: 'Atma', cursive;
+    font-size: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(165, 65, 65);
+    color: rgba(245, 245, 245, 0.897)
+}
+
+h1 {
+    font-family: 'Atma', cursive;
+    text-decoration: underline overline dotted rgb(255, 194, 194);
+    color:ghostwhite;
+}
+
+ p { 
+    font-family: 'Atma', cursive; 
+    font-size: 20px;
+}
+
+select {
+    font-family: 'Atma', cursive;
+    background-color: rgb(241, 176, 176);
+}
